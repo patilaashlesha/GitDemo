@@ -1,0 +1,6 @@
+
+<<<<<<< HEAD
+Everyone
+=======
+Hello
+>>>>>>> b1
